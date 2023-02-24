@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{CD64BE23-C3FB-47ED-862E-F06BF7A0BDD3}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Dll\GetOsVersionHookDll.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="DllInjector\DllInjector.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="InjectTest\InjectTest.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="GetOsVersionHookDll">
+        <MSBuild Projects="Dll\GetOsVersionHookDll.dproj"/>
+    </Target>
+    <Target Name="GetOsVersionHookDll:Clean">
+        <MSBuild Projects="Dll\GetOsVersionHookDll.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GetOsVersionHookDll:Make">
+        <MSBuild Projects="Dll\GetOsVersionHookDll.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DllInjector">
+        <MSBuild Projects="DllInjector\DllInjector.dproj"/>
+    </Target>
+    <Target Name="DllInjector:Clean">
+        <MSBuild Projects="DllInjector\DllInjector.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DllInjector:Make">
+        <MSBuild Projects="DllInjector\DllInjector.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="InjectTest">
+        <MSBuild Projects="InjectTest\InjectTest.dproj"/>
+    </Target>
+    <Target Name="InjectTest:Clean">
+        <MSBuild Projects="InjectTest\InjectTest.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="InjectTest:Make">
+        <MSBuild Projects="InjectTest\InjectTest.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="GetOsVersionHookDll;DllInjector;InjectTest"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="GetOsVersionHookDll:Clean;DllInjector:Clean;InjectTest:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="GetOsVersionHookDll:Make;DllInjector:Make;InjectTest:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

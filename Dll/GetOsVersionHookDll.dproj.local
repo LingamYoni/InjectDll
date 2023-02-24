@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.323,D:\Projects\WCL7\VSD\Dll\wclFileFuncs.pas=D:\Projects\WCL7\VSD\Dll\wclVsdFileFuncs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,=D:\Projects\WCL7\VSD\Dll\DDetours\DDetours.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,=D:\Projects\WCL7\VSD\Dll\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,=D:\Projects\WCL7\VSD\Dll\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,D:\Projects\WCL7\VSD\Dll\wclVsdFileFuncs.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,=D:\Projects\WCL7\VSD\Dll\DDetours\LegacyTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,D:\Projects\WCL7\VSD\Dll\wclVsdSync.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,D:\Projects\WCL7\VSD\Dll\wclVSD.dproj=C:\Users\mike\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,=D:\Projects\WCL7\VSD\Dll\DDetours\CPUID.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,D:\Projects\WCL7\VSD\Dll\wclVsdDevicesManager.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,D:\Projects\WCL7\VSD\Dll\Unit1.pas=D:\Projects\WCL7\VSD\Dll\wclVsdSync.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,=D:\Projects\WCL7\VSD\Dll\DDetours\InstDecode.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,D:\Projects\WCL7\VSD\Dll\wclVirtualSerialDevice.pas=D:\Projects\WCL7\VSD\Dll\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,=D:\Projects\WCL7\VSD\Dll\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,D:\Projects\WCL7\VSD\Dll\Unit1.pas=D:\Projects\WCL7\VSD\Dll\wclFileFuncs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,D:\Projects\WCL7\VSD\Dll\Unit1.pas=D:\Projects\WCL7\VSD\Dll\wclVsdDevicesManager.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=D:\Projects\WCL7\VSD\Dll\Unit1.pas</Transaction>
+    <Transaction>2023.02.24 10:58:37.990,D:\Projects\Shared Projects\Windows\InjectDll\Dll\wclVirtualSerialDevice.pas=</Transaction>
+    <Transaction>2023.02.24 11:00:03.967,D:\Projects\Shared Projects\Windows\InjectDll\Dll\GetOsVersionHookDll.dproj=D:\Projects\Shared Projects\Windows\InjectDll\Dll\wclVSD.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
