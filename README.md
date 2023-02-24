@@ -9,3 +9,4 @@
  
  The project based on this Freelancer request: https://www.freelancer.com/projects/cplusplus-programming/Inject-DLL-36032475/details
 
+**Please, do not forget to visit [Wireless Communication Library](https://www.btframework.com) site**
