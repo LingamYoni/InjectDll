@@ -1,0 +1,8 @@
+
+*.dcu
+*.local
+*.local
+Dll/GetOsVersionHookDll.dproj.local
+*.identcache
+*.~1~
+*.stat

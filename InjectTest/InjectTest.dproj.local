@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023.02.24 12:13:16.306,=E:\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023.02.24 12:13:38.919,D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\main.pas=E:\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023.02.24 12:13:38.919,D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\main.dfm=E:\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023.02.24 12:13:44.545,D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\InjectTest.dproj=E:\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.919,E:\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,E:\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,E:\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\InjectTest.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,=E:\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023.02.24 11:17:57.920,D:\Projects\Shared Projects\Windows\InjectDll\Injector.groupproj=E:\User\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.920,E:\User\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=D:\Projects\Shared Projects\Windows\InjectDll\Injector.groupproj</Transaction>
   </Transactions>
-  <Default.Personality>
-    <Projects ActiveProject="D:\Projects\Shared Projects\Windows\InjectDll\InjectTest\InjectTest.dproj"/>
-  </Default.Personality>
+	<Default.Personality>
+		<Projects ActiveProject="D:\Projects\Shared Projects\Windows\InjectDll\Dll\GetOsVersionHookDll.dproj"/>
+	</Default.Personality>
 </BorlandProject>

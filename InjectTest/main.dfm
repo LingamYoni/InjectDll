@@ -1,6 +1,7 @@
 object fmMain: TfmMain
   Left = 0
   Top = 0
+  BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
   Caption = 'DLL Inject Test'
   ClientHeight = 92

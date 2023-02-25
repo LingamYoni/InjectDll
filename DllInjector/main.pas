@@ -107,6 +107,8 @@ var
   i: Integer;
   Item: TListItem;
 begin
+  Found := False;
+
   if lvProcesses.Items.Count > 0 then begin
     for i := 0 to lvProcesses.Items.Count - 1 do begin
       Item := lvProcesses.Items[i];
