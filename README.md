@@ -9,6 +9,10 @@
  
  The project based on this Freelancer request: https://www.freelancer.com/projects/cplusplus-programming/Inject-DLL-36032475/details
  
+ Delphi 10.
+ 
+ **NOTE**: This was created **just for fun**, I have not been paid for this project and did not win a bid.
+ 
  This project was developed by [me](https://www.facebook.com/marina.petrichenko.1)
 
 Should you have any question you can contact us directly at marina@btframework.com
