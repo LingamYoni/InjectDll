@@ -13,10 +13,11 @@
  
  **NOTE**: This was created **just for fun**, I have not been paid for this project and did not win a bid.
  
- **It is free for non commercial and education use only. You CAN NOT use it in any commercial projects. For commercial use contact me at marina@btframework.com**
- 
- This project was developed by [me](https://www.facebook.com/marina.petrichenko.1)
+ ### Copyrights
 
-Should you have any question you can contact us directly at marina@btframework.com
-
-**Please, do not forget to visit [Wireless Communication Library](https://www.btframework.com) site**
+Copyright (C) 2023 Marina Petrichenko  
+marina@btframework.com  
+https://www.facebook.com/marina.petrichenko.1  
+https://www.btframework.com
+  
+It is free for non-commercial and/or education use only.
